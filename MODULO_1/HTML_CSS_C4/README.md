@@ -424,7 +424,7 @@ El resultado en el HTML es unos div con la siguiente distribución.
 
 > Entiéndase que el contorno verde es el border de cada div
 
-![Position](./resources/ejemploposition.png)
+![Position](./resources/position.png)
 
 Para trucos como este nos sirve la propiedad position, miremos entonces que pasó aquí realmente.
 

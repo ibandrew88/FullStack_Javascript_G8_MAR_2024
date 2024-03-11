@@ -22,3 +22,6 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Cómo instalar GitHub https://youtu.be/ZL5ob1DlYhY
 - Cómo usar Discord para las sesiones de trabajo colaborativo https://youtu.be/etfWfN1b0YI
 ## Modulo 1
+- Clase #1, 04/03/2024 - Introducción a HTML, Primeros pasos y etiquetas básicas: https://youtu.be/Lam3IFmd6wQ.
+- Clase #2, 06/03/2024 - Introducción a HTML, Tablas e inputs: https://youtu.be/o0Lnwg_hacw. 
+- Clase #3, 08/03/2024 - Introducción a HTML, Formularios, selects, inputs, buttons y dudas: https://youtu.be/btEBJLk1tf4.

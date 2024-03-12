@@ -25,7 +25,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #1, 04/03/2024 - Introducción a HTML, Primeros pasos y etiquetas básicas: https://youtu.be/Lam3IFmd6wQ.
 - Clase #2, 06/03/2024 - Introducción a HTML, Tablas e inputs: https://youtu.be/o0Lnwg_hacw. 
 - Clase #3, 08/03/2024 - Introducción a HTML, Formularios, selects, inputs, buttons y dudas: https://youtu.be/btEBJLk1tf4.
-- Clase #4, 08/03/2024 - Introducción a CSS, CSS, selectores, estilos basicos, bordes: --.
+- Clase #4, 08/03/2024 - Introducción a CSS, CSS, selectores, estilos basicos, bordes: https://youtu.be/jNbh4T9EhB0.
 ## URL's de material complementario de clase
 - Clase #1, 04/03/2024 - Introducción a HTML, Primeros pasos y etiquetas básicas: https://foremost-market-88d.notion.site/Gu-a-de-clase-1-HTML-y-CSS-03ea2d5d800844ef99858f4e3334c3cd.
 - Clase #2, 06/03/2024 - Introducción a HTML, Tablas e inputs: https://foremost-market-88d.notion.site/Gu-a-de-clase-2-HTML-y-CSS-335fd872d10549eea9035f871bada1b1. 

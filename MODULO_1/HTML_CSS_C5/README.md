@@ -42,7 +42,7 @@ Como vemos tenemos dos etiquetas `<p>` a las cuales les aplicamos distintos atri
 
 Al abrir este HTML visualizaremos una página con solo el siguiente contenido.
 
-![Ejemplo 1](./resources/PrimerEjemplo.png)
+![Ejemplo 1](./resources/primerejemplo.png)
 
 Como observamos la etiqueta que contiene el texto de Título Principal tiene un tamaño mucho mayor pese a que tiene la misma clase que el título secundario, aquí es donde aplicamos los selectores.
 
@@ -164,7 +164,7 @@ img + span.titulo {
 Este CSS hará efecto sobre el siguiente HTML.
 
 ```
-<img src="./resources/PrimerEjemplo.png" /><span class="titulo" >Titulo de la foto</span>
+<img src="./resources/primerejemplo.png" /><span class="titulo" >Titulo de la foto</span>
 ```
 
 Como la etiqueta span es la hermana que sigue de img `hermana adyacente` entonces se aplican los estilos sobre las etiquetas span de clase título.
@@ -331,7 +331,7 @@ Cada elemento HTML está contenido dentro de una caja, sea un título, una image
 
 Miremos la siguiente imagen.
 
-![Ejemplo 1](./resources/BoxModel.png)
+![Ejemplo 1](./resources/boxmodel.png)
 
 En esta imagen se visualiza el box model con todos sus elementos, dando un primer vistazo notamos que consiste en un modelo de varias capas, cada una seguida de otra. Miremos cada elemento, a que se refiere y como modificarlo.
 
@@ -424,7 +424,7 @@ El resultado en el HTML es unos div con la siguiente distribución.
 
 > Entiéndase que el contorno verde es el border de cada div
 
-![Position](./resources/EjemploPosition.png)
+![Position](./resources/ejemploposition.png)
 
 Para trucos como este nos sirve la propiedad position, miremos entonces que pasó aquí realmente.
 

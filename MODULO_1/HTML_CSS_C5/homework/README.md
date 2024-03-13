@@ -24,5 +24,5 @@ En la generación de estilos hay infinitas maneras de llegar a un mismo resultad
 ## Importante
 Los textos y la imágen de perfil deben quedar centrados en la tarjeta
 debe mínimo haber una separación de 40px entre  los textos y el borde de la tarjeta
-  ![tarea2](./../resources/homework_2.jpeg)
+  ![tarea2](./../resources/homeworkdos.jpeg)
 

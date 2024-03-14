@@ -8,3 +8,18 @@ p {
 .parrafoUnico {
     color: red;
 }
+
+.contenedor {
+    border: solid 2px red;
+}
+
+.subcontenedor {
+    border: solid 2px blue;
+}
+
+.tituloDeBox {
+    border: solid 2px green;
+}
+.subcontenedorParrafo {
+    border: solid 2px yellow;
+}

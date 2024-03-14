@@ -1,0 +1,10 @@
+/* Navegador: P-> Aque*/
+p {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+
+.parrafoUnico {
+    color: red;
+}

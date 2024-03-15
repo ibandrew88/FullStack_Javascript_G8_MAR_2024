@@ -6,7 +6,7 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 1. Usando las propiedades vistas sobre el concepto de box model o modelo de caja intenta replicar las siguentes páginas web:
     - El banner principal debe ser un div con la imagen de parís como background
-    - ![tarea2](./resources/tareaBoxModelUno.png)
+    - ![tarea1](./resources/tareaBoxModelUno.png)
     - ![tarea2](./resources/tareaCardBoxModel.png)
     - ![tarea3](./resources/tareaBoxModelMiniGaleria.png)
     - ![tarea4](./resources/tareaMiWebBoxModel.png)

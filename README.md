@@ -27,9 +27,11 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #3, 08/03/2024 Intro. HTML Formularios, selects, inputs, buttons: https://youtu.be/btEBJLk1tf4.
 - Clase #4, 11/03/2024 Intro. CSS Selectores, estilos basicos, bordes: https://youtu.be/jNbh4T9EhB0.
 - Clase #5, 13/03/2024 Intro. CSS Box model, etiqueta div, bordes, selectores: https://youtu.be/jSFRwbND0Hk.
+- Clase #6, 15/03/2024 CSS Box model, etiqueta div: https://youtu.be/ETjkRPBWGnc.
 ## URL's de material complementario de clase
 - Clase #1, 04/03/2024 - HTML Etiquetas básicas: https://foremost-market-88d.notion.site/Gu-a-de-clase-1-HTML-y-CSS-03ea2d5d800844ef99858f4e3334c3cd.
 - Clase #2, 06/03/2024 - HTML Tablas e inputs: https://foremost-market-88d.notion.site/Gu-a-de-clase-2-HTML-y-CSS-335fd872d10549eea9035f871bada1b1. 
 - Clase #3, 08/03/2024 - Intro. HTML Formularios, selects, inputs, buttons: https://foremost-market-88d.notion.site/Gu-a-de-clase-3-HTML-y-CSS-Formularios-selects-inputs-buttons-y-dudas-de-la-semana-62542a78936e451fbc105782a01113b7.
 - Clase #4, 11/03/2024 - CSS Selectores, estilos basicos, bordes: https://foremost-market-88d.notion.site/Gu-a-de-clase-4-HTML-y-CSS-Introducci-n-a-CSS-bfd1958e5b784bf182d896ffaacf30c2.
 - Clase #5, 13/03/2024 - Intro. CSS Box model, etiqueta div, bordes, selectores: https://foremost-market-88d.notion.site/Gu-a-de-clase-5-Box-model-etiqueta-div-bordes-selectores-avanzados-0e5ee8d3fce949e9bc4cda54b508444a.
+- Clase #6, 15/03/2024 - CSS, Box model, etiqueta div: https://foremost-market-88d.notion.site/Gu-a-de-clase-6-Box-model-y-cierre-de-dudas-fff7256614f8468ca3449986365d06a7?pvs=4.

@@ -1,37 +1,142 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarea 5</title>
-    <link rel="stylesheet" href="./styles5.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
-
-  
+    <title>Galería de Imágenes Flexbox</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .image-item {
+            flex: 0 0 calc(33.33% - 40px); /* Para tres imágenes por fila */
+            max-width: calc(33.33% - 40px);
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            transition: transform 0.3s ease;
+        }
+        .image-item:hover {
+            transform: translateY(-5px);
+        }
+        .image {
+            width: 100%;
+            height: auto;
+        }
+        .card-content {
+            padding: 20px;
+        }
+        .card-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .card-description {
+            font-size: 14px;
+            color: #666;
+        }
+        .highlights {
+            margin-top: 40px;
+            display: flex;
+            justify-content: space-around;
+            background-color: #ffecb3;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .highlight {
+            flex: 0 0 calc(33.33% - 40px); /* Para tres momentos destacados por fila */
+            max-width: calc(33.33% - 40px);
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #ffe082;
+            text-align: center;
+        }
+        .highlight-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .highlight-description {
+            font-size: 14px;
+            color: #666;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #888;
+        }
+    </style>
 </head>
 <body>
-    <div class="card">
-        <div class="content">
-            <span></span>
-            <div class="img">
-                <img src="Andy.jpg" alt="">
+    <div class="container">
+        <h1 style="text-align: center;">Galería de Imágenes</h1>
+        <p style="text-align: center;">Una colección de imágenes de muestra para inspirarte.</p>
+        <div class="gallery">
+            <div class="image-item">
+                <img class="image" src="https://via.placeholder.com/400x300" alt="Imagen 1">
+                <div class="card-content">
+                    <h2 class="card-title">Título de la Imagen 1</h2>
+                    <p class="card-description">Descripción de la Imagen 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
             </div>
-            <h4>Andrés Puerta</h4>
-            <br>
-            <h5>Economista y Financiero</h5>
-            <br>
-            <p>Con alma de econometrista, Trader de Futuros</p>
-            <br>
+            <div class="image-item">
+                <img class="image" src="https://via.placeholder.com/400x300" alt="Imagen 2">
+                <div class="card-content">
+                    <h2 class="card-title">Título de la Imagen 2</h2>
+                    <p class="card-description">Descripción de la Imagen 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </div>
+            <div class="image-item">
+                <img class="image" src="https://via.placeholder.com/400x300" alt="Imagen 3">
+                <div class="card-content">
+                    <h2 class="card-title">Título de la Imagen 3</h2>
+                    <p class="card-description">Descripción de la Imagen 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </div>
+        </div>
+        <div class="highlights">
+            <div class="highlight">
+                <h3 class="highlight-title">Momento Destacado 1</h3>
+                <p class="highlight-description">Descripción del Momento Destacado 1. Lorem ipsum
+                </p>
 
-            <div class="link">
-                <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                <a href="#"><i class="fa-brands fa-github"></i></a>
-                <a href="#"><i class="fa-brands fa-youtube"></i></a>
+            </div>
+            <div class="highlight">
+                <h3 class="highlight-title">Momento Destacado 1</h3>
+                <p class="highlight-description">Descripción del Momento Destacado 1. Lorem ipsum
+                </p>
+
+            </div>
+            <div class="highlight">
+                <h3 class="highlight-title">Momento Destacado 1</h3>
+                <p class="highlight-description">Descripción del Momento Destacado 1. Lorem ipsum
+                </p>
+            </div>
         </div>
     </div>
-
-
-
+    <footer>
+        © 2024 Galería de Imágenes. Todos los derechos reservados.
+    </footer>
 </body>
 </html>

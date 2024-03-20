@@ -1,6 +1,6 @@
-## Tarea
+# Tarea
 
-### Tarea Práctica: Diseño de una galería de imágenes con Flexbox
+## Tarea Práctica: Diseño de una galería de imágenes con Flexbox
 
 ![Galería de Imágenes](./resources/tarea.png)
 

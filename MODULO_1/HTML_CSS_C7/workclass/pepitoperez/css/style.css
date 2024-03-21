@@ -28,7 +28,14 @@ body {
     padding: 10px;
     /* Esta es la declaración de inicio de flexbox, y debe hacerse en el contenedor padre. */
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
+    height: 400px;
+    align-items: center;
+    
+    /* Justify content sirve para posicionar
+    los elementos dentro de un contenedor padre
+    por ejemplo, center, start, o end */
+    justify-content:center;
     /* Flex direction sirve para ordenar los elementos, ya se en filas o en columnas */
     /* Row para filas */
     /* flex-direction: row; */
@@ -37,13 +44,15 @@ body {
     
     /* Sirve para ordenar los elementos
     en cuadros o apilarlos en orden tipo tabla*/
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 
     /* Por defecto, la propiedad viene en nowrap */
-    flex-wrap: nowrap;
+    /* flex-wrap: nowrap; */
     
 
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+
+
 }
 
 /* Este es el estilo general de las cajas */

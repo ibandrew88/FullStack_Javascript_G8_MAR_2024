@@ -1,0 +1,33 @@
+/* Este es el selector universal
+Dentro de este es donde se van a aplicar
+todos los estilos a la página.
+
+Es decir, todo lo que yo ponga ahí
+en estilos, se me va a aplicar en toda 
+la página sin importar. */
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Este es el selector del  contenedor del titulo */
+.title {
+    text-align: center;
+    color: brown;
+    border: solid 2px gold;
+}
+
+/* Esta es la clase, del contenedor de las cajas. */
+.flex-container {
+    border: 3px solid orangered;
+    
+}
+
+/* Este es el estilo general de las cajas */
+.caja {
+    background-color: gray;
+    border: solid 1px rebeccapurple;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}

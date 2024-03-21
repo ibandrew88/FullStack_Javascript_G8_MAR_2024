@@ -6,6 +6,10 @@ Es decir, todo lo que yo ponga ahí
 en estilos, se me va a aplicar en toda 
 la página sin importar. */
 
+body {
+    background-color:bisque;
+}
+
 * {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

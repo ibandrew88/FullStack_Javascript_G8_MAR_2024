@@ -7,7 +7,7 @@ en estilos, se me va a aplicar en toda
 la página sin importar. */
 
 * {
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /* Este es el selector del  contenedor del titulo */
@@ -20,7 +20,10 @@ la página sin importar. */
 /* Esta es la clase, del contenedor de las cajas. */
 .flex-container {
     border: 3px solid orangered;
-    
+    margin: 20px;
+    padding: 10px;
+    /* Esta es la declaración de inicio de flexbox, y debe hacerse en el contenedor padre. */
+    display: flex;
 }
 
 /* Este es el estilo general de las cajas */

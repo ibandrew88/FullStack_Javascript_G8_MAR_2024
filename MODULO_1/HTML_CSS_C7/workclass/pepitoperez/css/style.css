@@ -28,13 +28,22 @@ body {
     padding: 10px;
     /* Esta es la declaración de inicio de flexbox, y debe hacerse en el contenedor padre. */
     display: flex;
+    flex-direction: row-reverse;
+    /* Flex direction sirve para ordenar los elementos, ya se en filas o en columnas */
+    /* Row para filas */
+    /* flex-direction: row; */
+    /* Column para columnas */
+    /* flex-direction:column; */
 }
 
 /* Este es el estilo general de las cajas */
 .caja {
-    background-color: gray;
+    background-color:brown;
     border: solid 1px rebeccapurple;
     text-align: center;
     padding: 20px;
     margin: 20px;
+    color: aliceblue;
+    height: 10%;
+    width: 10%;
 }

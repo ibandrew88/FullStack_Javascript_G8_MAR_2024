@@ -3,7 +3,7 @@
 ## Descripción de la Tarea
 
 **Descripción:**
-En esta tarea, los estudiantes deberán crear el contenido inicial para una red social mejorada utilizando HTML y aplicando el modelo de caja (box model) y Flexbox para el diseño. La red social contendrá una estructura más elaborada con secciones para la cabecera, el contenido principal y el pie de página.
+En esta tarea, deberán crear el contenido inicial para una red social mejorada utilizando HTML y aplicando el modelo de caja (box model) y Flexbox para el diseño. La red social contendrá una estructura más elaborada con secciones para la cabecera, el contenido principal y el pie de página.
 
 **Instrucciones:**
 

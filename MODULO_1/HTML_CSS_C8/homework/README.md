@@ -1,5 +1,9 @@
 # Tarea
 
+![Red social apartado 1](./resources/1tareauno.png)
+![Red social apartado 2](./resources/2tareauno.png)
+![Red social apartado 3](./resources/3tareauno.png)
+
 ## Descripción de la Tarea
 
 **Descripción:**

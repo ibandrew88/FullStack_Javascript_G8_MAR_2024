@@ -29,6 +29,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #5, 13/03/2024 Intro. CSS Box model, etiqueta div, bordes, selectores: https://youtu.be/jSFRwbND0Hk.
 - Clase #6, 15/03/2024 CSS Box model, etiqueta div: https://youtu.be/ETjkRPBWGnc.
 - Clase #7, 20/03/2024 CSS Intro Flexbox: https://youtu.be/_5RH6Uxp-0Y.
+- Clase #8, 20/03/2024 CSS Intro Flexbox, repaso general: https://youtu.be/WcHHa8ZO0Xg.
 ## URL's de material complementario de clase
 - Clase #1, 04/03/2024 - HTML Etiquetas básicas: https://foremost-market-88d.notion.site/Gu-a-de-clase-1-HTML-y-CSS-03ea2d5d800844ef99858f4e3334c3cd.
 - Clase #2, 06/03/2024 - HTML Tablas e inputs: https://foremost-market-88d.notion.site/Gu-a-de-clase-2-HTML-y-CSS-335fd872d10549eea9035f871bada1b1. 
@@ -37,3 +38,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #5, 13/03/2024 - Intro. CSS Box model, etiqueta div, bordes, selectores: https://foremost-market-88d.notion.site/Gu-a-de-clase-5-Box-model-etiqueta-div-bordes-selectores-avanzados-0e5ee8d3fce949e9bc4cda54b508444a.
 - Clase #6, 15/03/2024 - CSS, Box model, etiqueta div: https://foremost-market-88d.notion.site/Gu-a-de-clase-6-Box-model-y-cierre-de-dudas-fff7256614f8468ca3449986365d06a7?pvs=4.
 - Clase #7, 20/03/2024 CSS Intro Flexbox: https://foremost-market-88d.notion.site/Gu-a-de-clase-7-Display-flex-justify-content-gap-3a4d3a9907f04f45a288eb26a572d7fb?pvs=4.
+- Clase #8, 20/03/2024 CSS Intro Flexbox: https://foremost-market-88d.notion.site/Gu-a-de-clase-7-Display-flex-justify-content-gap-3a4d3a9907f04f45a288eb26a572d7fb?pvs=4.

@@ -37,6 +37,6 @@ Crear una página web que sirva como perfil personal utilizando HTML semántico 
 
 ## Ejemplo de vista:
 
-![Untitled]()
+![Apartado de imagen tarea uno](./resources/tareauno.png)
 
-![Untitled]()
+![Apartado de imagen tarea uno](./resources/tareaunodos.png)

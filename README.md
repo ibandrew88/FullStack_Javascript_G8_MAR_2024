@@ -31,7 +31,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #7, 20/03/2024 CSS Intro Flexbox: https://youtu.be/_5RH6Uxp-0Y.
 - Clase #8, 22/03/2024 CSS Intro Flexbox, repaso general: https://youtu.be/WcHHa8ZO0Xg.
 - Clase #9, 26/03/2024 CSS Intro Flexbox, repaso general: https://youtu.be/fUfuQUMOi-0.
-- Clase #10, 01/04/2024 CSS Intro Flexbox: https://youtu.be/C_Dyef_IUpM.
+- Clase #10, 01/04/2024 CSS Repaso Flexbox, HTML semántico e intro media queries: https://youtu.be/C_Dyef_IUpM.
 
 ## URL's de material complementario de clase
 - Clase #1, 04/03/2024 - HTML Etiquetas básicas: https://foremost-market-88d.notion.site/Gu-a-de-clase-1-HTML-y-CSS-03ea2d5d800844ef99858f4e3334c3cd.

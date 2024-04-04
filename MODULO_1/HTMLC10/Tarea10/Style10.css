@@ -1,0 +1,75 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+nav ul{
+    background-color: grey;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+
+}
+nav li{
+    display: inline-flex;
+ }
+ 
+ nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+ }
+ nav li:hover {
+    background-color: black;
+ }
+ img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    }
+
+.contenido {
+    display: flex;
+    margin: 60px;
+}
+
+.secciones {
+    display: flex;
+    padding: 40px;
+    position:left;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+ .table {
+
+    position: relative;
+    text-align: center;
+    padding: 20%;
+ }
+
+
+footer p {
+   
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    
+}

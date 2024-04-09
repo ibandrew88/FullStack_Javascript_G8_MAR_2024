@@ -1,0 +1,54 @@
+*{
+background-color: gray;
+padding: 0;
+margin: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header{
+width: 100%;
+margin: 10px;
+padding: 10px;
+
+}
+.Container-title-header {
+background-color: aqua;
+text-align: center;
+color: brown;
+}
+
+nav ul {
+
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+nav ul li {
+
+    margin: 15px;
+    padding: 10px;
+    color: darkblue;
+}
+
+@media (max-width: 600px) {
+    nav ul li {
+
+        padding: 10px;
+        margin: 10px;
+        color: red;
+    }
+
+    .Container-title-header{
+
+        background-color: royalblue;
+        text-align: center;
+        color: white;
+        font-size: 9px;
+    }
+
+
+}
